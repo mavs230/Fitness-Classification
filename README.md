@@ -12,4 +12,4 @@ A classification project using a **Multilayer Perceptron (MLP)** to determine fi
 * **Evaluation:** Comprehensive classification report (Precision, Recall, F1-Score) and Confusion Matrix.
 
 ##  Tech Stack
-* Python, Scikit-Learn, Pandas, Seaborn
+* Python, Scikit-Learn, Pandas, Seaborn,Neural Networks
